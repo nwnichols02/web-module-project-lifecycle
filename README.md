@@ -5,7 +5,7 @@ This module explored lifecycle methods in class components. In your project you 
 ## Objectives
 
 - Build class components from scratch
-- Get comfortable working with multiple slices of state
+- Get comfortable working with multiple s lices of state
 - Use `ComponentDidMount` to make an API call to `GET` resources from an API
 - Use a submit event handler to `POST` a new resource to the server
 - Use a click handler to `PATCH` an existing resource on the server
